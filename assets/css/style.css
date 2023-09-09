@@ -143,7 +143,7 @@ a:hover{
 }
 
 /* DESKTOP */
-@media (min-width: 992px) {
+@media (min-width: 576px) {
   header {
     grid-area: header;
     background-color: #e8e4e4;
